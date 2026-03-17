@@ -4,7 +4,9 @@
 
 ## About Me
 
-I'm an AI student at [ENSIA](https://ensia.edu.dz) with a passion for IT and over five years of development experience. My projects range from desktop applications and Discord bots to games. I've also represented Algeria in various math and programming competitions, including the IMO and IOI.
+Hey there! I'm Raouf. I am passionate about software development, mathematics, and the evolving world of AI. Currently, I'm exploring the intersection of Quantum Computing and Machine Learning, with a strong interest in the theoretical foundations that will shape future technology.
+
+Outside of coding and studying, I enjoy coaching students for Science Olympiads, exploring geometry and astronomy, and capturing moments of the world through my camera lens.
 
 ## Skills
 
